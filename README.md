@@ -1,17 +1,19 @@
-# week1
-<h1 align="center">project:My Website</h1>
-<h2 align="center">Author Name:Diana Muchoki</h2>
+# My Fist website
+#### {a website about me, {2022}
+#### Author Name **{Diana Muchoki,Mark**
+## Description
+this is a class project on introdustin to DevOps, it is a basic website about me. 
+## Setup/Installation Requirements
+To Build the website you are required to have knowledge on:HTML, Visual Code, CSS,
+* Copy and paste on linkto a browser to access the site:https://dianawambuim.github.io/week1/my-first-webpage.html
 
 
-- 🔭 I’m currently working on [My Fist Website Project](https://dianawambuim.github.io/week1/my-first-webpage.html)
-
-- 🌱 I’m currently learning **Introduction to DevOps**
-
-- 📫 How to reach me **dianawambum@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## Known Bugs
+there is a recurring error on Push: failed to push some refs to 'https://github.com/dianawambuim/week1.git'
+. , i force commit as a work around
+## Technologies Used
+Languages used:HTML and CSS. 
+## Support and contact details
+contact:dianawambum@gmail.com
+### License
+GPL
