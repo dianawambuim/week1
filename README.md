@@ -9,7 +9,7 @@ To Build the website you are required to have knowledge on:HTML, Visual Code, CS
 
 
 ## Known Bugs
-there is a recurring error on Push: failed to push some refs to 'https://github.com/dianawambuim/week1.git'
+there is a recurring error on Push:  'failed to push some refs to 'https://github.com/dianawambuim/week1.git''
 . , i force commit as a work around
 ## Technologies Used
 Languages used:HTML and CSS. 
